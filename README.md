@@ -1,1 +1,1 @@
-# odin-recipes
+My first project following theodinproject.com initial Foundations course - Building a basic recipe website.
